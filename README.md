@@ -39,7 +39,7 @@ wget buildroot.org/downloads/buildroot-x.y.z.tar.gz
 tar -xf buildroot-x.y.z.tar.gz
 
 cd buildroot-x.y.z
-make BR2_EXTERNAL=../v3s3 licheepi_zero_defconfig
+make BR2_EXTERNAL=../v3s3 licheepi_v3s_defconfig
 
 # Make any customizations if desired
 make nconfig
