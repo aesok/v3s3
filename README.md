@@ -7,6 +7,8 @@ This repo contains a _buildroot external tree_ for the Allwinner V3s/S3/S3L SoCs
 
 The main goal is to support all available features/peripherals on these SoCs with the latest mainline software, with minimum patches/modifications. Unfortunately, some binary blobs are required for certain features (specifically, video encoding; see more below).
 
+ Этот репозиторий содежит _buildroot external tree_ для отладочной платы [LC-CherryPi-PC-V3S/LCPI-V3S](https://linux-sunxi.org/CherryPi_PC_V3S).
+
 ## General Features
 
 - Fast 0.3 seconds boot time (from `Starting kernel...` to `/sbin/init`)
