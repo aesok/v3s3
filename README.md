@@ -34,7 +34,7 @@ cd /some/working/directory
 # Download the v3s3 external tree
 git clone https://github.com/Unturned3/v3s3
 
-# Get a buildroot release (any recent version should work; tested with 2022.05.1)
+# Get a buildroot release (any recent version should work; tested with 2022.08.1)
 wget buildroot.org/downloads/buildroot-x.y.z.tar.gz
 tar -xf buildroot-x.y.z.tar.gz
 
